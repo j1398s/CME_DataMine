@@ -18,7 +18,7 @@ https://www.cmegroup.com/confluence/display/EPICSANDBOX/Top+of+Book+-+BBO#TopofB
 
 - Data format conversion in Python
  1. download sample or actual BBO data
- 2. download 'DM_BBO_Breakdown_CL.xlsx'
+ 2. download 'DM_BBO_conversion_CL.ipynb'
 
  
 
